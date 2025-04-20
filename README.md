@@ -1,2 +1,7 @@
 # Bookmarcade
-Turn any webpage into an old-school arcade cabinet. This bookmarklet injects a full-blown, pixel-poppin’, synth-blastin’ game center right into your browser tab — no installs, no downloads, just click and play. Pong, Invaders, Platformers and more, all packed in a single line of JavaScript.
+Welcome to my submission for the Hacklet competition! This project features a creative browser-based game built with HTML, CSS, and JavaScript. It showcases an interactive experience that is simple, engaging, and fun.
+
+## Project Features
+- **Game Concept**: [Insert brief description of your game here]
+- **Technologies Used**: HTML, CSS, JavaScript
+- **Unique Mechanisms**: [Describe any special features or game mechanics you’ve included]
