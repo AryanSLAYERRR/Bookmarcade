@@ -3,6 +3,8 @@ Welcome to my submission for the Hacklet competition! This project features a cr
 Retro Game on any website!!! 5 games to choose from
 -‼️**YOU MAY NEED TO ZOOM OUT IF THE RETRO GAME CONSOLE DOESNT FIT**
 
+
+<a href="javascript:(function(){alert('Hello, this is a bookmarklet!');})();">Click Me!</a>
 # Controls
 **PONG**
 - Use arrow keys to play
