@@ -3,15 +3,6 @@ Welcome to my submission for the Hacklet competition! This project features a cr
 Retro Game on any website!!! 5 games to choose from
 -‼️**YOU MAY NEED TO ZOOM OUT IF THE RETRO GAME CONSOLE DOESNT FIT**
 
-
-## 📌 Drag to Bookmarks
-
-Drag this link to your bookmarks bar:  
-<a href="javascript:(function(){alert('Hello from your bookmarklet!');})();" title="Drag me!" style="font-weight:bold; color:#fff; background:#4CAF50; padding:8px 12px; border-radius:4px; text-decoration:none;">🔖 My Bookmarklet</a>
-
-
-
-
 # Controls
 **PONG**
 - Use arrow keys to play
