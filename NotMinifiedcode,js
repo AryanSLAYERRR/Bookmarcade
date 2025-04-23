@@ -1,4 +1,4 @@
-javascript:alert('Please zoom out for full view!');(function() {
+javascript:alert('Please zoom out for full view!'),alert('Please Check the Github page for controls');(function() {
 
     if (document.getElementById('arcade-overlay')) {
       return;
